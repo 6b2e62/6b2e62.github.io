@@ -1,0 +1,4 @@
+title: Blog
+theme: minima
+exclude:
+- README.md
